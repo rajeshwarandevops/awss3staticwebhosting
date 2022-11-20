@@ -1,0 +1,4 @@
+
+#open this url which redirect to S3 -Static web hosting
+
+# http://rajeshdevops-terraform-state-backend-2731.s3-website.us-east-2.amazonaws.com
